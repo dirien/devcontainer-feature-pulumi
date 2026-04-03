@@ -1,0 +1,4 @@
+{
+    "name": "devcontainer-feature-pulumi dev",
+    "image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
