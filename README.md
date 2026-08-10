@@ -18,7 +18,7 @@ Add the following to your `devcontainer.json`:
 
 | Option    | Type   | Default    | Description                                                                 |
 |-----------|--------|------------|-----------------------------------------------------------------------------|
-| `version` | string | `"latest"` | Version of Pulumi to install (e.g., `3.228.0`). Set to `latest` for the latest release. |
+| `version` | string | `"latest"` | Version of Pulumi to install (e.g., `3.256.0`). Set to `latest` for the latest release. |
 
 ### Pin to a specific version
 
@@ -26,7 +26,7 @@ Add the following to your `devcontainer.json`:
 {
     "features": {
         "ghcr.io/dirien/devcontainer-feature-pulumi/pulumi:0": {
-            "version": "3.228.0"
+            "version": "3.256.0"
         }
     }
 }

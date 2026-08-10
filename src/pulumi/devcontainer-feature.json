@@ -1,14 +1,14 @@
 {
     "name": "pulumi",
     "id": "pulumi",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Installs the Pulumi CLI for infrastructure as code",
     "documentationURL": "https://www.pulumi.com/docs/install/",
     "options": {
         "version": {
             "type": "string",
             "default": "latest",
-            "description": "Version of Pulumi to install (e.g., 3.228.0). Set to 'latest' to install the latest version."
+            "description": "Version of Pulumi to install (e.g., 3.256.0). Set to 'latest' to install the latest version."
         }
     },
     "installsAfter": [
