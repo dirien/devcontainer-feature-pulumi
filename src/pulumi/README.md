@@ -15,7 +15,7 @@ Installs the Pulumi CLI for infrastructure as code
 
 | Options Id | Description | Type | Default Value |
 |-----|-----|-----|-----|
-| version | Version of Pulumi to install (e.g., 3.228.0). Set to 'latest' to install the latest version. | string | latest |
+| version | Version of Pulumi to install (e.g., 3.256.0). Set to 'latest' to install the latest version. | string | latest |
 
 
 
